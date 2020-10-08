@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD student
+role: PhD
 
 
 # Organizations/Affiliations
@@ -30,7 +30,7 @@ education:
   courses:
   - course: PhD in Computer Science and Technology
     institution: Shanghai Jiao Tong University
-    year: 2020 (expected)
+    year: 2020
 
   - course: BSc in Software Engineering
     institution: Northwestern Polytechnical University
@@ -60,7 +60,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "echo d3NzdHJpdmluZ0BnbWFpbC5jb20= |base64 -d"
+email: "echo d3NzdHJpdmluZ0BnbWFpbC5jb20= | base64 -d"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
