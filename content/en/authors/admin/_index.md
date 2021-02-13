@@ -10,18 +10,22 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD
+role: Senior Researcher
 
 
 # Organizations/Affiliations
 organizations:
+- name: Tencent
+  url: "https://www.tencent.com/"
 - name: Shanghai Jiao Tong University
-  url: ""
+  url: "http://en.sjtu.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include DL methods for robust speaker recognition
 
 interests:
+- Sound generation
+- Speech synthesis
 - Speaker recognition
 - Speaker diarization
 - Bayesian methods
@@ -44,12 +48,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:wsstriving@gmail.com'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=vW1ZaucAAAAJ
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/gcushen
@@ -69,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-I am Ph.D. Candidate in Shanghai Jiao Tong University, under the supervision of [Kai Yu](https://speechlab.sjtu.edu.cn/members/kai_yu) and [Yanmin Qian](https://speechlab.sjtu.edu.cn/members/yanmin_qian). My research interests include deep learning based approaches for speaker recognition, speaker diarization and voice activity detection. 
+I obtained my Ph.D. degree in Shanghai Jiao Tong University in 2020.09, under the supervision of [Kai Yu](https://speechlab.sjtu.edu.cn/members/kai_yu) and [Yanmin Qian](https://speechlab.sjtu.edu.cn/members/yanmin_qian). During the Ph.D. my research interests include deep learning based approaches for speaker recognition, speaker diarization and voice activity detection. I serve as a regular reviewer for speech related conferences/journals: Interspeech, ICASSP, ICME and TASLP. Currently, I work at Tencent as a senior researcher and my research area extended to speech synthesis, which is a facinating task.
