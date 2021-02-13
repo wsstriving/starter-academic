@@ -49,8 +49,8 @@ social:
   icon_pack: fas
   link: 'mailto:wsstriving@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: graduation-cap
-  icon_pack: ai
-  link: 'https://scholar.google.com/citations?user=vW1ZaucAAAAJ'
+  icon_pack: fas
+  link: https://scholar.google.com/citations?user=vW1ZaucAAAAJ
 
 # - icon: github
 #   icon_pack: fab
