@@ -17,7 +17,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "IEEE/ACM Transactions on Audio, Speech, and Language Processing, vol. --, no. --, pp. -, Nov. 2020"
-publication_short: "TASLP 2020 (Accepted)"
+publication_short: "TASLP 2020"
 
 abstract: ""
 

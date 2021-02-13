@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Investigation of Specaugment for Deep Speaker Embedding Learning"
-authors: [Shuai Wang, Johan Rohdin, Oldřich Plchot, Lukáš Burget, Kai Yu, Jan Černocký]
-date: 2020-06-25T21:45:36+08:00
-doi: "10.1109/ICASSP40776.2020.9053481"
+title: "Unit Selection Synthesis based Data Augmentation for Fixed Phrase Speaker Verification"
+authors: [Houjun Huang, Xu Xiang, Fei Zhao, Shuai Wang, Yanmin Qian]
+date: 2021-02-13T22:13:59+08:00
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-06-25T21:45:36+08:00
+publishDate: 2021-02-13T22:13:59+08:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,16 +16,16 @@ publishDate: 2020-06-25T21:45:36+08:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Barcelona, Spain, 2020"
-publication_short: "ICASSP 2020"
+publication: "IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Toronto, Canada, 2021"
+publication_short: "ICASSP 2021 (Accepted)"
 
-abstract: "SpecAugment is a newly proposed data augmentation method for speech recognition. By randomly masking bands in the log Mel spectogram this method leads to impressive performance improvements. In this paper, we investigate the usage of SpecAugment for speaker verification tasks. Two different models, namely 1-D convolutional TDNN and 2-D convolutional ResNet34, trained with either Softmax or AAM-Softmax loss, are used to analyze SpecAugment’s effectiveness. Experiments are carried out on the Voxceleb and NIST SRE 2016 dataset. By applying SpecAugment to the original clean data in an on-the-fly manner without complex off-line data augmentation methods, we obtained 3.72% and 11.49% EER for NIST SRE 2016 Cantonese and Tagalog, respectively. For Voxceleb1 evaluation set, we obtained 1.47% EER."
+abstract: ""
 
 # Summary. An optional shortened abstract.
 summary: ""
 
 tags: []
-categories: [sid, data_aug]
+categories: []
 featured: false
 
 # Custom links (optional).
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://www.researchgate.net/publication/341084451_Investigation_of_Specaugment_for_Deep_Speaker_Embedding_Learning
+url_pdf:
 url_code:
 url_dataset:
 url_poster:
