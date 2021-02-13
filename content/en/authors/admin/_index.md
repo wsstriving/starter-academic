@@ -17,8 +17,8 @@ role: Senior Researcher
 organizations:
 - name: Tencent
   url: "https://www.tencent.com/"
-- name: Shanghai Jiao Tong University
-  url: "http://en.sjtu.edu.cn/"
+# - name: Shanghai Jiao Tong University
+#   url: "http://en.sjtu.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include DL methods for robust speaker recognition
@@ -48,9 +48,10 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:wsstriving@gmail.com'  # For a direct email link, use "mailto:test@example.org".
-- icon: google-scholar
+- icon: graduation-cap
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=vW1ZaucAAAAJ
+  link: 'https://scholar.google.com/citations?user=vW1ZaucAAAAJ'
+
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/gcushen
@@ -70,4 +71,8 @@ user_groups:
 - Visitors
 ---
 
-I obtained my Ph.D. degree in Shanghai Jiao Tong University in 2020.09, under the supervision of [Kai Yu](https://speechlab.sjtu.edu.cn/members/kai_yu) and [Yanmin Qian](https://speechlab.sjtu.edu.cn/members/yanmin_qian). During the Ph.D. my research interests include deep learning based approaches for speaker recognition, speaker diarization and voice activity detection. I serve as a regular reviewer for speech related conferences/journals: Interspeech, ICASSP, ICME and TASLP. Currently, I work at Tencent as a senior researcher and my research area extended to speech synthesis, which is a facinating task.
+I obtained my Ph.D. degree in Shanghai Jiao Tong University in 2020.09, under the supervision of [Kai Yu](https://speechlab.sjtu.edu.cn/members/kai_yu) and [Yanmin Qian](https://speechlab.sjtu.edu.cn/members/yanmin_qian). During the Ph.D. my research interests include deep learning based approaches for speaker recognition, speaker diarization and voice activity detection. 
+
+I serve as a regular reviewer for speech related conferences/journals: Interspeech, ICASSP, ICME and TASLP. 
+
+Currently, I work at Tencent as a senior researcher and my research area extended to speech synthesis, which is a facinating task.
