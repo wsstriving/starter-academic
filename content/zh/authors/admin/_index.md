@@ -55,4 +55,4 @@ user_groups:
 - Visitors
 ---
 
-这是我的中文页面，不会涉及任何学术的内容，目前的打算是写一写游记，碎碎念之类的，仅做生活记录。If you come to this site due to the interest in my research, please select the English version.
+这是我的中文页面，目前的打算是一方面写一写游记，记录一下生活；另一方面则是偶尔写一下中文的技术博客。If you come to this site due to the interest in my research, please select the English version.
