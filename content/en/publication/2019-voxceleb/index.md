@@ -22,7 +22,7 @@ publication_short: ""
 abstract: "In this report, we describe the submission of Brno University of Technology (BUT) team to the VoxCeleb Speaker Recognition Challenge (VoxSRC) 2019. We also provide a brief analysis of different systems on VoxCeleb-1 test sets. Submitted systems for both Fixed and Open conditions are a fusion of 4 Convolutional Neural Network (CNN) topologies. The first and second networks have ResNet34 topology and use two-dimensional CNNs. The last two networks are one-dimensional CNN and are based on the x-vector extraction topology. Some of the networks are fine-tuned using additive margin angular softmax. Kaldi FBanks and Kaldi PLPs were used as features. The difference between Fixed and Open systems lies in the used training data and fusion strategy. The best systems for Fixed and Open conditions achieved 1.42% and 1.26% ERR on the challenge evaluation set respectively."
 
 # Summary. An optional shortened abstract.
-summary: "This paper describes the winning systems developed by the BUT team for the two tracks of the First VoxSRC Speaker Recognition Challenge"
+summary: "This paper describes the winning systems developed by the BUT team for the two tracks of the First VoxSRC Speaker Recognition Challenge, we proposed r-vector in this paper. Update: I lanuched an open-source project wespeaker, where the implementation can be found"
 
 tags: []
 categories: [SEL]
