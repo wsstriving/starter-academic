@@ -25,10 +25,10 @@ bio: My research interests include DL methods for robust speaker recognition
 
 interests:
 - Sound generation
+- Voice conversion
 - Speech synthesis
 - Speaker recognition
 - Speaker diarization
-- Bayesian methods
 
 education:
   courses:
@@ -73,6 +73,6 @@ user_groups:
 
 I obtained my Ph.D. degree in Shanghai Jiao Tong University in 2020.09, under the supervision of [Kai Yu](https://speechlab.sjtu.edu.cn/members/kai_yu) and [Yanmin Qian](https://speechlab.sjtu.edu.cn/members/yanmin_qian). During the Ph.D. my research interests include deep learning based approaches for speaker recognition, speaker diarization and voice activity detection. 
 
-I serve as a regular reviewer for speech related conferences/journals: Interspeech, ICASSP, ICME and TASLP. 
+I serve as a regular reviewer for speech/deep learning related conferences/journals: Interspeech, ICASSP, ICME, TASLP and Neural Networks. 
 
-Currently, I work at Tencent as a senior researcher and my research area extended to speech synthesis, which is a facinating task.
+Currently, I work at Tencent as a senior researcher and my research areas have been extended to the sound generation tasks such as voice conversion and speech synthesis.
