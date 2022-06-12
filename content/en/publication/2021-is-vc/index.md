@@ -3,7 +3,7 @@
 
 title: "Non-Parallel Any-to-Many Voice Conversion by Replacing Speaker Statistics"
 authors: [Yufei Liu, Chengzhu Yu, Shuai Wang, Zhenchuan Yang, Chao Yang, Weibin Zhang]
-date: 2020-07-28T20:42:06+08:00
+date: 2021-09-28T20:42:06+08:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
