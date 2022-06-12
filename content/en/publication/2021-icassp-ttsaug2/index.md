@@ -17,7 +17,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Toronto, Canada, 2021"
-publication_short: "ICASSP 2021 (Accepted)"
+publication_short: "ICASSP 2021"
 
 abstract: ""
 

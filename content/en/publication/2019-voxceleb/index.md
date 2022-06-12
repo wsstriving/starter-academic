@@ -37,7 +37,7 @@ featured: true
 #   icon: twitter
 
 url_preprint: https://arxiv.org/pdf/1910.12592.pdf
-url_code:
+url_code: https://github.com/wenet-e2e/wespeaker/tree/master/wespeaker
 url_dataset:
 url_poster:
 url_project:

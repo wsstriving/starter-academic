@@ -4,7 +4,7 @@
 title: "Data Augmentation using Deep Generative Models for Embedding based Speaker Recognition"
 authors: [Shuai Wang, Yexin Yang, Zhanghao Wu, Yanmin Qian, Kai Yu]
 date: 2020-07-30T22:46:42+08:00
-doi: ""
+doi: "10.1109/TASLP.2020.3016498"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-07-30T22:46:42+08:00
@@ -16,16 +16,16 @@ publishDate: 2020-07-30T22:46:42+08:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "IEEE/ACM Transactions on Audio, Speech, and Language Processing, vol. --, no. --, pp. -, Nov. 2020"
+publication: "IEEE/ACM Transactions on Audio, Speech, and Language Processing, vol. 28, pp. 2598-2609, Nov. 2020"
 publication_short: "TASLP 2020"
 
-abstract: ""
+abstract: "Data augmentation is an effective method to improve the robustness of embedding based speaker verification systems, which could be applied to either the front-end speaker embedding extractor or the back-end PLDA. Different from the conventional augmentation methods such as manually adding noise or reverberation to the original audios, in this article, we propose to use deep generative models to directly generate more diverse speaker embeddings, which would be used for robust PLDA training. Conditional GAN, and VAE are designed, and investigated for different embedding types, including factor analysis based i-vector, TDNN based x-vector, and ResNet based r-vector. The proposed back-end augmentation methods are evaluated on NIST SRE 2016, and 2018 dataset. Within the popular x-vector, and r-vector framework, the experimental results show that our proposed methods can outperform the traditional audio based back-end augmentation method while different front-end augmentation methods are considered."
 
 # Summary. An optional shortened abstract.
 summary: ""
 
 tags: []
-categories: []
+categories: [SEL]
 featured: false
 
 # Custom links (optional).
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: http://www.dlc.sjtu.edu.cn/en/papers/2020/sw121-wang-taslp20.pdf
 url_code:
 url_dataset:
 url_poster:

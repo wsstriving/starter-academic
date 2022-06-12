@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Unit Selection Synthesis based Data Augmentation for Fixed Phrase Speaker Verification"
-authors: [Houjun Huang, Xu Xiang, Fei Zhao, Shuai Wang, Yanmin Qian]
-date: 2021-02-13T22:13:59+08:00
+title: "On the Importance of Different Frequency Bins for Speaker Verification"
+authors: [Aiwen Deng, Shuai Wang, Wenxiong Kang, Feiqi Deng]
+date: 2022-05-14T22:13:59+08:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2021-02-13T22:13:59+08:00
+publishDate: 2022-05-14T22:13:59+08:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,8 +16,8 @@ publishDate: 2021-02-13T22:13:59+08:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Toronto, Canada, 2021"
-publication_short: "ICASSP 2021"
+publication: "IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Singapore, 2022"
+publication_short: "ICASSP 2022"
 
 abstract: ""
 
@@ -25,7 +25,7 @@ abstract: ""
 summary: ""
 
 tags: []
-categories: []
+categories: [SEL]
 featured: false
 
 # Custom links (optional).
