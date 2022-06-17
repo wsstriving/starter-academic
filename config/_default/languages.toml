@@ -24,3 +24,8 @@
     name = "生活记录"
     url = "#posts"
     weight = 20
+  
+  [[zh.menu.main]]
+    name = "学术相关"
+    url = "#posts"
+    weight = 20

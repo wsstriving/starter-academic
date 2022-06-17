@@ -3,11 +3,11 @@
 
 title: "Context-aware Multimodal Fusion for Emotion Recognition"
 authors: [Jinchao Li, Shuai Wang, Yang Chao, Xunying Liu, Helen Meng]
-date: 2022-05-14T22:13:59+08:00
+date: 2022-09-14T22:13:59+08:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2022-05-14T22:13:59+08:00
+publishDate: 2022-09-14T22:13:59+08:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
