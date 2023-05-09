@@ -3,7 +3,7 @@
 
 title: "Wespeaker: A Research and Production oriented Speaker Embedding Learning Toolkit"
 authors: [Hongji Wang, Chengdong Liang, Shuai Wang, Zhengyang Chen, Binbin Zhang, Xu Xiang, Yanlei Deng, Yanmin Qian]
-date: 2022-05-08T22:13:59+08:00
+date: 2023-05-08T22:13:59+08:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
