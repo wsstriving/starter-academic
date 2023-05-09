@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "DF-ResNet: Boosting Speaker Verification Performance with Depth-First Design"
-authors: [Bei Liu, Zhengyang Chen, Shuai Wang, Haoyu Wang, Bing Han, Yanmin Qian]
-date: 2022-06-14T22:11:59+08:00
+title: "Wespeaker: A Research and Production oriented Speaker Embedding Learning Toolkit"
+authors: [Hongji Wang, Chengdong Liang, Shuai Wang, Zhengyang Chen, Binbin Zhang, Xu Xiang, Yanlei Deng, Yanmin Qian]
+date: 2022-05-08T22:13:59+08:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2022-06-14T22:11:59+08:00
+publishDate: 2023-05-08T22:13:59+08:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,13 +16,13 @@ publishDate: 2022-06-14T22:11:59+08:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In 22th Annual Conference of the International Speech Communication Association (InterSpeech), Incheon, Korea, 2022"
-publication_short: "Interspeech 2022"
+publication: "IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Greece, 2023"
+publication_short: "ICASSP 2023"
 
-abstract: "Interspeech 2022" 
+abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: "Interspeech 2022"
+summary: ""
 
 tags: []
 categories: [SEL]
@@ -31,13 +31,13 @@ featured: false
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 # links:
-#   name: Follow
+# - name: Follow
 #   url: https://twitter.com
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: 
-url_code:
+url_pdf: https://arxiv.org/abs/2210.17016
+url_code: https://github.com/wenet-e2e/wespeaker
 url_dataset:
 url_poster:
 url_project:
