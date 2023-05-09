@@ -71,8 +71,7 @@ user_groups:
 - Visitors
 ---
 
-I obtained my Ph.D. degree in Shanghai Jiao Tong University in 2020.09, under the supervision of [Kai Yu](https://speechlab.sjtu.edu.cn/members/kai_yu) and [Yanmin Qian](https://speechlab.sjtu.edu.cn/members/yanmin_qian). During the Ph.D. my research interests include deep learning based approaches for speaker recognition, speaker diarization and voice activity detection. 
+I obtained my Ph.D. degree in Shanghai Jiao Tong University in 2020.09, under the supervision of [Kai Yu](https://speechlab.sjtu.edu.cn/members/kai_yu) and [Yanmin Qian](https://speechlab.sjtu.edu.cn/members/yanmin_qian). During the Ph.D. my research interests include deep learning based approaches for speaker recognition, speaker diarization and voice activity detection. After my graduation, I joined Tencent as a senior researcher my research areas had been extended to the sound generation tasks such as voice conversion and speech synthesis. Currently, I am with the SpeechLab in Shenzhen Research Institute of Big Data led by [Haizhou Li](https://colips.org/~eleliha/) and work closely with [Zhizheng Wu](https://drwuz.com/).
 
 I serve as a regular reviewer for speech/deep learning related conferences/journals: Interspeech, ICASSP, ICME, TASLP and Neural Networks. 
 
-Currently, I work at Tencent as a senior researcher and my research areas have been extended to the sound generation tasks such as voice conversion and speech synthesis.
