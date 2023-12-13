@@ -26,7 +26,7 @@ summary: "AAAI 2024"
 
 tags: []
 categories: [tts]
-featured: false
+featured: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -36,11 +36,11 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: 
-url_code:
+url_pdf: https://arxiv.org/abs/2306.07547
+url_code: https://github.com/cantabile-kwok/UniCATS-CTX-vec2wav
 url_dataset:
 url_poster:
-url_project:
+url_project: https://cpdu.github.io/unicats/
 url_slides:
 url_source:
 url_video:
