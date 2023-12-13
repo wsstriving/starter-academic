@@ -18,6 +18,30 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Research Scientist"
+  company = "Shenzhen Research Institute of Big Data, Chinese University of Hong Kong (Shenzhen)"
+  company_url = ""
+  location = "Shenzhen, China"
+  date_start = "2023-05-04"
+  date_end = ""
+  description = """
+  
+  """
+
+
+[[experience]]
+  title = "Senior Research Scientist"
+  company = "Tencent"
+  company_url = "https://www.tencent.com/en-us/"
+  location = "Shenzhen, China"
+  date_start = "2020-10-13"
+  date_end = "2023-04-26"
+  description = """
+  Led the speech team, working on Speech Synthesis, Voice Conversion, Spoken Emotion Recognition, Audio Generation/Retrivial, Symbolic Music Generation, etc.
+  Serving Products of Tencent Games such as League of legends, Game for Peace, DouDiZhu, etc.
+  """
+
+[[experience]]
   title = "Research assistant"
   company = "Speech@FIT in Brno University of Technology"
   company_url = "https://speech.fit.vutbr.cz/"
@@ -31,28 +55,28 @@ date_format = "Jan 2006"
   * The NIST SRE 2019 speaker recognition challenge 
   """
 
-[[experience]]
-  title = "Researcher"
-  company = "AISPEECH"
-  company_url = "http://aispeech.com/"
-  location = "Suzhou, China"
-  date_start = "2018-06-01"
-  date_end = "2018-12-31"
-  description = """
-  Working on deep learning based speaker recognition systems for real-world applications such as
-  * Smart phones
-  * Car equipment
-  * Smart-home devices
-  """
+#[[experience]]
+#  title = "Researcher"
+#  company = "AISPEECH"
+#  company_url = "http://aispeech.com/"
+#  location = "Suzhou, China"
+#  date_start = "2018-06-01"
+#  date_end = "2018-12-31"
+#  description = """
+#  Working on deep learning based speaker recognition systems for real-world applications such as
+#  * Smart phones
+#  * Car equipment
+#  * Smart-home devices
+#  """
 
-  [[experience]]
-  title = "Researcher"
-  company = "AISPEECH"
-  company_url = "http://aispeech.com/"
-  location = "Suzhou, China"
-  date_start = "2017-05-01"
-  date_end = "2018-08-31"
-  description = """
-  Working on single-channel multi-speaker recognition, check https://www.youtube.com/watch?v=YFHboRGedY4 for more details.
-  """
+#  [[experience]]
+#  title = "Researcher"
+#  company = "AISPEECH"
+#  company_url = "http://aispeech.com/"
+#  location = "Suzhou, China"
+#  date_start = "2017-05-01"
+#  date_end = "2018-08-31"
+#  description = """
+#  Working on single-channel multi-speaker recognition, check https://www.youtube.com/watch?v=YFHboRGedY4 for more details.
+#  """
 +++

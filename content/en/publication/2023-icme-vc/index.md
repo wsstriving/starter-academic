@@ -17,7 +17,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "International Conference on Multimedia and Expo (ICME) 2023, Australia"
-publication_short: "ICME 2023 (Accepted)"
+publication_short: "ICME 2023"
 
 abstract: "ICME 2023" 
 
@@ -25,7 +25,7 @@ abstract: "ICME 2023"
 summary: "ICME 2023"
 
 tags: []
-categories: [SEL]
+categories: [vc]
 featured: false
 
 # Custom links (optional).

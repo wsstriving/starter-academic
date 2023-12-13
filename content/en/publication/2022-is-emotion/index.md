@@ -17,7 +17,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "In 22th Annual Conference of the International Speech Communication Association (InterSpeech), Incheon, Korea, 2022"
-publication_short: "Interspeech 2022 (Accepted)"
+publication_short: "Interspeech 2022"
 
 abstract: "Interspeech 2022" 
 
