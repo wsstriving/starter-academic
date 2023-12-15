@@ -73,9 +73,11 @@ user_groups:
 
 I obtained my Ph.D. degree in Shanghai Jiao Tong University in 2020.09, under the supervision of [Kai Yu](https://speechlab.sjtu.edu.cn/members/kai_yu) and [Yanmin Qian](https://speechlab.sjtu.edu.cn/members/yanmin_qian). During the Ph.D. my research interests include deep learning based approaches for speaker recognition, speaker diarization and voice activity detection. After my graduation, I joined Tencent Games as a senior researcher, where I (informally) led a speech group and extended the research interest to speech synthesis, voice conversion, music generation and audio retrivial. Currently, I am with the SpeechLab in Shenzhen Research Institute of Big Data, Chinese University of Hong Kong (Shenzhen) led by [Haizhou Li](https://colips.org/~eleliha/).
 
-I am the creator of Wespeaker, a research and product oriented speaker representation learning toolkit.
+I am the creator of [Wespeaker](https://github.com/wenet-e2e/wespeaker/), a research and product oriented speaker representation learning toolkit. You can check [my tutorial](file:///home/shuai/%E4%B8%8B%E8%BD%BD/ncmmsc_slides_shuai.pdf) to see what you can do using speaker modeling and how to easily apply wespeaker to your tasks. Welcome to use and contribute!
 
-I serve as a regular reviewer for speech/deep learning related conferences/journals: Interspeech, ICASSP, ICME, SPL, TASLP, Neural Networks and Pattern Recognition. 
+**Services**:
+I serve as a regular reviewer for speech/deep learning related conferences/journals: Interspeech, ICASSP, ICME, SPL, TASLP, Neural Networks and Pattern Recognition.
+I will serve as the publication chair for SLT 2024.
 
 **Openings**:
-We are actively seeking self-motivated students to join our team as research assistants, visiting students and potential Ph.D. students. Multiple positions are immediately available in Shenzhen, with competitive salary and benefits. If you are interested, please send me an email with your CV. 
+We are actively seeking self-motivated students to join our team as research assistants, visiting students and potential Ph.D. students. Multiple positions are immediately available in Shenzhen, with competitive salary and benefits. If you are interested, please drop me an email with your CV. 
